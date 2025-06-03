@@ -1,45 +1,45 @@
-WithMe
+# WithMe 
 
-日常生活中在他人陪伴下我的做事效率和专注力会显著提高，查了一下应该是BodyDouble的原理。Body Double让我们感受到自己的存在，感受到自己需要去做事的紧迫感。
-------------------------------
-功能特点
+## Introduce
 
-- 🐱 角色陪伴
-- ⏰ 自定义时长的番茄钟计时
-- 📝 任务记录和管理
-- 📊 贡献热图
-- 📅 历史记录时间轴
-- 💬 互动式反馈系统
-------------------------------
-开发技术
+**WithMe** is a program that offers a Body Double experience, hoping to make us feel our own existence.Its main features are:
 
-- React + TypeScript
-- Vite
-- Emotion (样式方案)
-- DayJS (时间处理)
-- React Calendar Heatmap (贡献热图)
-------------------------------
-本地开发
+- Role accompaniment.
+- Custom duration Pomodoro timer.
+- Task recording and management.
+- Contribution heat map.
+- Historical record timeline.
 
-1. 安装依赖：
-npm install
+------
 
-2. 启动开发服务器：
-npm run dev
+## Getting Started
 
-3. 构建生产版本：
-npm run build
-------------------------------
-使用方法
+1.  npm install
+2.  npm run dev 
+3.  npm run build
 
-1. 在输入框中输入你想完成的任务
-2. 选择合适的专注时长（25/30/45/60分钟）
-3. 点击"准备开始"按钮
-4. 等待角色准备完毕，开始计时
-5. 专注完成你的任务
-6. 时间结束后可以记录完成情况
-------------------------------
-贡献
-ukiyoeii
+------
 
-欢迎提交 Issue 和 Pull Request！
+## Roadmap
+
+- Different languages.
+- More humanized character Settings.
+- More dynamic character dynamics.
+
+……
+
+------
+
+## Issues
+
+If you found a bug or have a new idea/feature for the program, you can report them.
+
+------
+
+## Authors
+
+**WithMe** is being developed by [ukiyoeii]([浮世荣 --- ukiyoeii](https://github.com/ukiyoeii)) 
+
+------
+
+### **Welcome to submit issues and Pull requests!**
